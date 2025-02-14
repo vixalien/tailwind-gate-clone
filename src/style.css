@@ -16,4 +16,7 @@
   --color-sky-blue-dark: #c1cddd;
 
   --spacing-container: 1728px;
+
+  --font-sans: "Libre Franklin", serif;
+  --font-serif: "Sumana", Georgia, "Times New Roman", Times, serif
 }
