@@ -2,5 +2,10 @@
 
 @theme {
   --color-primary: #0c2340;
+  --color-gray: #555;
+  --color-gold: #ae9142;
+  --color-card-hover: #e1e8f2;
+  --color-card-hover-200: #c1cddd;
+
   --spacing-container: 1728px;
 }
